@@ -10,7 +10,7 @@ DESENVOLVIMENTO
 
 ### Usuário
 
-Email: admin@waproject.com.br 
+Email: admin@waproject.com.br
 Senha: senha@123
 
 ### Iniciando 
